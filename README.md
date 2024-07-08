@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Prerana Sangole</h1>
+ <h1>Hi 👋, I'm Prerana Sangole</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 <img align="right" alt="coding' width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679320585170/f47f3c28-5086-4b70-a077-faefb3e2db36.gif">
 
