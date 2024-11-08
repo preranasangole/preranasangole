@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python {Numpy,Pandas,scikit-Learn,Matplotlib},Go**
 
-- 📫 How to reach me **preranasangole02@gmail.com**
+- 📫 How to reach me **prerana63@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
